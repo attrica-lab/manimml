@@ -10,3 +10,6 @@ setup.cfg
 examples/media/videos
 examples/media/text
 examples/media/images
+
+# Attrica: local recall log written by the why hook
+.attrica/
